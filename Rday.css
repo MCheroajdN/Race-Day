@@ -1,0 +1,23 @@
+body {
+    margin:auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1 {
+
+    color: rgb(28, 11, 104);
+    font-style: oblique;
+    text-align: center;
+}
+
+/* to centre an image*/
+#center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    width: 20%;
+}
+
+p {
+    text-align: center;
+}
